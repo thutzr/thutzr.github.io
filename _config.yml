@@ -23,7 +23,7 @@ email: thutzr1019 at gmail dot com
 description:  # this means to ignore newlines until "baseurl:"
   random-walk
 baseurl: "thutzr.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://thutzr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  thutzr
 linkedin_username: zeren-tan-b06864159
 # Build settings
