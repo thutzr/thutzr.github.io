@@ -2,7 +2,7 @@
 layout: post
 title:  "实习总结"
 date:   2024-09-21 14:54:05 +0800
-categories: jekyll post
+categories: post
 ---
 实习结束了一段时间了，这是一段非常难忘的经历，想要记录一下，留做自己之后回味和各位看官参考。
 ## 目录
