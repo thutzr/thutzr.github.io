@@ -22,7 +22,7 @@ title: 谭泽人(Tan, Zeren)
 email: thutzr1019 at gmail dot com
 description:  # this means to ignore newlines until "baseurl:"
   random-walk
-domain: thutzr.github.io
+# domain: thutzr.github.io
 # baseurl: thutzr.github.io # the subpath of your site, e.g. /blog
 url: https://thutzr.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  thutzr
