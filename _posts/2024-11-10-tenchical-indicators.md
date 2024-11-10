@@ -9,7 +9,7 @@ categories: post
 
 ### Chaikin A/D Line
 
-* **Formula:** $CLV = \frac{(Close - Low) - (High - low)}{High - Low}, CF = CLV \times Volume, ADL = previous ADL + CF $ 
+* **Formula:** $CLV = \frac{(Close - Low) - (High - low)}{High - Low}, CF = CLV \times Volume, ADL = previous ADL + CF$ 
 * **Intuition:** 当Close = mean(High, Low)，则CLV = 0, Close=High, CLV=1, Close=Low, CLV=-1, CLV一定程度上衡量了这个High发生的时间点和Close的时间点是否比较接近，如果比较接近，说明在这个bar内，价格是在上升的。CF则衡量了这个bar内净流入资金（近似），ADL则衡量了累计的资金净流入
 
 
